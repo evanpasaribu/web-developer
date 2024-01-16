@@ -2,3 +2,5 @@ target tahun ini
 -github
 -nodejs
 -react.js
+-apapun
+-membuat web dinamis
